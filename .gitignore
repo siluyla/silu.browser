@@ -1,0 +1,13 @@
+.gradle/
+build/
+app/build/
+local.properties
+.idea/
+*.iml
+.replit
+.agents/
+bun.lock
+package-lock.json
+node_modules/
+.prettierrc.json
+package.json
